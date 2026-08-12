@@ -5,11 +5,6 @@
 **Document version:** v6.1 · **Last modified:** 2026-08-12
 **Applies to:** MetawatchPHR 0.2.0, build `23ea06338668` ("V7c") · **Windows beta** (macOS release in preparation)
 
-**Revision history:**
-- **v6.1 (2026-08-12, CEO):** re-stamped to the public-release build at the release itself, per the revision-sync mandate — `9d9745e` ("V6") → `23ea06338668` ("V7c"), and the installer filename example updated to match the artifact that actually ships. No other change.
-- v1.0–v5.1: Owner drafts — provisioning, connectors, graphing, SOAP, standards; LLM configuration + external-LLM consent; model recommendations; Appendix A (LM Studio), context 40000–50000, temperature 0.1.
-- **v6.0 (2026-08-09, CEO/Publications):** corrected data-folder path (`%LOCALAPPDATA%\OpenPHR`); installer filename/SHA identity; SmartScreen guidance; accurate first-run acceptance flow (two documents, scroll-to-end, French-first); first-launch timing; demo patient; per-platform model recommendations; temperature consistency (0.1); connector availability stated accurately; supported file types + timing expectations; support loop (`scan_report.md`); uninstall & data-retention section; system requirements; backup guidance; screenshot placeholders throughout.
-
 ---
 
 Welcome to **MetawatchPHR**, your personal, fully local health data refinery. MetawatchPHR takes your scattered, unstructured medical files — PDFs, Word documents, Excel spreadsheets, raw text, and hospital exports — and forges them into a unified, clinically coherent timeline that you can read, graph, and search.
@@ -93,8 +88,6 @@ MetawatchPHR relies on an AI language model to extract structured clinical data 
 
 **If something goes wrong, email ONE file to `AI@Metawatch.ca`:** `%LOCALAPPDATA%\OpenPHR\logs\scan_report.md` — it is written fresh on every run and starts with a review-before-sending note so you can check what's in it. Include your installer's build code (the letters/numbers in the installer filename). For deeper diagnosis we may also ask for `scan_run.log` from the same folder. *(Fittingly for this product, support is AI-staffed too.)*
 
-*[Screenshot pending: a demo-scan `scan_report.md` open in Notepad — to be captured fresh]*
-
 ## 5. Feature Deep-Dive
 
 ### Connectors (direct import lanes)
@@ -112,8 +105,6 @@ The Patient Banner at the top of the dashboard houses interactive visualizations
 
 - **Biomarker Trends** — a selectable time-series chart of your lab results. Pick an analyte (e.g., Hemoglobin) and see your historical levels plotted against the standard reference-range band, making an out-of-bounds result instantly obvious.
 - **Weight Trend** — a longitudinal chart of your weight over your clinical timeline.
-
-*[Screenshot pending: Biomarker Trends with the reference band — awaits demo chart data or an Owner-approved capture]*
 
 ### Search and Ledger Navigation
 - **Global Search** — a powerful text search across your entire ledger; the domain filters nest with it so you can narrow to exactly the records you mean.

@@ -3,7 +3,7 @@
 # MetawatchPHR
 ### Your entire medical history. One timeline. Your machine only.
 
-**Document version:** v1.1 DRAFT — Owner review owed · **2026-08-10** (v1.1: Release-information section added from the Architect's lifted draft sections, facts-card-checked; Epic line tightened to the provable claim) · Applies to: MetawatchPHR 0.2.0 (Windows beta; macOS in preparation) — re-stamps at the designated public release
+**Document version:** v1.1 · **2026-08-12** · Applies to: MetawatchPHR 0.2.0, build `23ea06338668` (Windows beta; macOS in preparation)
 
 ---
 
@@ -76,8 +76,6 @@ A free local AI application (LM Studio) does the reading on your machine — the
 
 ## Release information — Windows beta
 
-*(Sections below drafted by the Architect 2026-08-10, checked against the facts-of-record card; lifted per his "ready to lift" note with the filename form corrected to the build-code identity.)*
-
 ### System requirements
 
 - **Windows 10 or 11, 64-bit.** About 600 MB of disk space.
@@ -98,7 +96,7 @@ Run the new installer right over your existing installation — no uninstall nee
 
 ### Privacy in one paragraph
 
-*(Wording is legally load-bearing — change only with Legal.)* MetawatchPHR is fully local. No telemetry, no analytics, no cloud accounts. The software makes exactly **one** outbound network request beyond your own AI endpoint: a one-time licence-key validation when **you** paste a connector key — carrying only that key, never your data. Sending anything to an AI outside your machine requires your explicit, recorded consent, and the engine itself refuses without it.
+MetawatchPHR is fully local. No telemetry, no analytics, no cloud accounts. The software makes exactly **one** outbound network request beyond your own AI endpoint: a one-time licence-key validation when **you** paste a connector key — carrying only that key, never your data. Sending anything to an AI outside your machine requires your explicit, recorded consent, and the engine itself refuses without it.
 
 ### Known beta limitations
 

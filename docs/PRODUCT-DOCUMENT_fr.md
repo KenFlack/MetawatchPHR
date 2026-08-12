@@ -96,7 +96,7 @@ Lancez le nouvel installateur par-dessus votre installation existante — aucune
 
 ### La confidentialité en un paragraphe
 
-*(Formulation juridiquement structurante — ne modifier qu'avec Legal.)* MetawatchPHR est entièrement local. Aucune télémétrie, aucune analytique, aucun compte infonuagique. Le logiciel effectue exactement **une** requête réseau sortante au-delà de votre propre point d'accès d'IA : une validation unique de clé de licence lorsque **vous** collez une clé de connecteur — ne transportant que cette clé, jamais vos données. L'envoi de quoi que ce soit à une IA située hors de votre machine exige votre consentement explicite et enregistré, et le moteur lui-même refuse sans celui-ci.
+MetawatchPHR est entièrement local. Aucune télémétrie, aucune analytique, aucun compte infonuagique. Le logiciel effectue exactement **une** requête réseau sortante au-delà de votre propre point d'accès d'IA : une validation unique de clé de licence lorsque **vous** collez une clé de connecteur — ne transportant que cette clé, jamais vos données. L'envoi de quoi que ce soit à une IA située hors de votre machine exige votre consentement explicite et enregistré, et le moteur lui-même refuse sans celui-ci.
 
 ### Limites connues de la bêta
 
