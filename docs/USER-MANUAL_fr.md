@@ -97,7 +97,7 @@ Si la raffinerie par IA excelle à lire du texte non structuré, certains systè
 - **Apple Health** — dans une mise à jour à venir : analyse votre `export.xml` (pas, fréquence cardiaque au repos, saturation en oxygène, et plus) vers des formats canoniques.
 - **Cerner et OSCAR (CPAP)** — l'architecture est prête pour les deux ; les adaptateurs d'importation arriveront dans des mises à jour ultérieures.
 
-<!-- Capture retirée le 2026-08-12 : l'image disponible laisse voir la barre de favoris personnelle du propriétaire, dont des pages d'administration d'équipement réseau. À recadrer sur le contenu de la page, puis à rétablir. -->
+<!-- Capture à reprendre. -->
 
 
 ### Graphiques

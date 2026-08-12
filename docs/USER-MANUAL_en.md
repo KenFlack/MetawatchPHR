@@ -104,7 +104,7 @@ While the AI refinery is brilliant at reading unstructured text, some healthcare
 - **Apple Health** — arriving in a coming update: parses your `export.xml` (steps, resting heart rate, O2, and more) into canonical formats.
 - **Cerner & OSCAR (CPAP)** — the architecture is wired for both; the import adapters arrive in later updates.
 
-<!-- Screenshot withheld 2026-08-12: the available capture carries the Owner's personal browser bookmark bar, including network-equipment admin pages. Re-crop to the page content only, then restore. -->
+<!-- Screenshot pending re-capture. -->
 
 
 ### Graphing
