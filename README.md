@@ -24,6 +24,8 @@ machine**.
 
 L'installateur Windows se trouve sur la page **[Releases](../../releases)**. La version macOS suit.
 
+**Documentation :** [Guide d'utilisation](docs/USER-MANUAL_fr.md) · [Document produit](docs/PRODUCT-DOCUMENT_fr.md)
+
 ### Prix
 
 **Gratuit, pour toujours** — aucune période d'essai, aucune limite, l'IA locale toujours incluse.
@@ -49,6 +51,8 @@ into a single organised, searchable health record **that stays on your machine**
 ### Download
 
 The Windows installer is on the **[Releases](../../releases)** page. macOS follows.
+
+**Documentation:** [User manual](docs/USER-MANUAL_en.md) · [Product document](docs/PRODUCT-DOCUMENT_en.md)
 
 ### Pricing
 
