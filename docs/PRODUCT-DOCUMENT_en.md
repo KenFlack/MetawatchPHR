@@ -3,7 +3,7 @@
 # MetawatchPHR
 ### Your entire medical history. One timeline. Your machine only.
 
-**Document version:** v1.1 · **2026-08-12** · Applies to: MetawatchPHR 0.2.0, build `23ea06338668` (Windows beta; macOS in preparation)
+**Document version:** v1.1 · **2026-08-12** · Applies to: MetawatchPHR 0.2.0, build `c002cb9162ef` (Windows beta; macOS in preparation)
 
 ---
 
@@ -86,7 +86,7 @@ A free local AI application (LM Studio) does the reading on your machine — the
 ### Installing
 
 1. Download `MetawatchPHR-Setup-0.2.0-<build code>.exe` from the Releases page and run it. (The code at the end of the filename identifies the exact build — quote it in any support request.)
-2. Windows may show **"Windows protected your PC"** — this beta is not yet code-signed. Click **More info → Run anyway**. (Signing is planned; this warning does not indicate a problem with the software.)
+2. Windows may show **"Windows protected your PC"** — this beta is not yet code-signed. Click **More info → Run anyway**. (This warning does not indicate a problem with the software.)
 3. The installer leads in **French**; choose your language. You'll be asked to read and accept the licence and privacy policy — the accept box appears at the **end** of each document.
 4. On finishing, MetawatchPHR starts and your browser opens to the dashboard with a built-in **demo patient** so you can explore immediately.
 

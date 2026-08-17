@@ -3,7 +3,7 @@
 # Guide d'utilisation de MetawatchPHR
 
 **Version du document :** v6.1 · **Dernière modification :** 2026-08-12
-**S'applique à :** MetawatchPHR 0.2.0, version `23ea06338668` (« V7c ») · **bêta Windows** (version macOS en préparation)
+**S'applique à :** MetawatchPHR 0.2.0, version `c002cb9162ef` · **bêta Windows** (version macOS en préparation)
 
 ---
 
@@ -23,8 +23,8 @@ Ce guide vous accompagne dans l'installation, l'ajout d'utilisateurs, la configu
 
 MetawatchPHR est distribué comme application de bureau autonome.
 
-1. **Téléchargez l'installateur.** Le nom du fichier ressemble à `MetawatchPHR-Setup-0.2.0-23ea06338668.exe`. Les lettres et les chiffres à la fin identifient votre version exacte — **si vous signalez un problème, incluez ce code de version** ; il nous indique précisément quelle version vous utilisez. Si un téléchargement arrive plus petit que prévu, retéléchargez directement plutôt qu'à travers un dossier synchronisé — les disques infonuagiques peuvent vous remettre un fichier partiel.
-2. **Attendez-vous à un avertissement de Windows — c'est normal.** L'installateur de la bêta n'est pas encore signé numériquement : SmartScreen affiche *« Windows a protégé votre ordinateur »* (cliquez sur **Informations complémentaires → Exécuter quand même**), et le Contrôle de compte d'utilisateur signale un *« éditeur inconnu »* (cliquez sur **Oui**). La signature est prévue ; d'ici là, ces avertissements apparaissent pour chaque testeur de la bêta.
+1. **Téléchargez l'installateur.** Le nom du fichier ressemble à `MetawatchPHR-Setup-0.2.0-c002cb9162ef.exe`. Les lettres et les chiffres à la fin identifient votre version exacte — **si vous signalez un problème, incluez ce code de version** ; il nous indique précisément quelle version vous utilisez. Si un téléchargement arrive plus petit que prévu, retéléchargez directement plutôt qu'à travers un dossier synchronisé — les disques infonuagiques peuvent vous remettre un fichier partiel.
+2. **Attendez-vous à un avertissement de Windows — c'est normal.** L'installateur de la bêta n'est pas encore signé numériquement : SmartScreen affiche *« Windows a protégé votre ordinateur »* (cliquez sur **Informations complémentaires → Exécuter quand même**), et le Contrôle de compte d'utilisateur signale un *« éditeur inconnu »* (cliquez sur **Oui**). Ces avertissements apparaissent pour chaque testeur de la bêta.
 
    ![L'invite d'éditeur inconnu que voit chaque testeur — cliquez sur Oui](manual-screenshots/shots/bonus_uac_unsigned_publisher.png)
 3. **L'installateur s'exécute d'abord en français.** MetawatchPHR est conçu selon les exigences linguistiques du Québec : l'installateur et les écrans de premier lancement présentent le français par défaut. Choisir l'anglais se fait en un clic — et ce choix constitue lui-même votre accord pour poursuivre en anglais.

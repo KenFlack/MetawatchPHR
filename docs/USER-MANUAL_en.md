@@ -3,7 +3,7 @@
 # MetawatchPHR User Manual
 
 **Document version:** v6.1 · **Last modified:** 2026-08-12
-**Applies to:** MetawatchPHR 0.2.0, build `23ea06338668` ("V7c") · **Windows beta** (macOS release in preparation)
+**Applies to:** MetawatchPHR 0.2.0, build `c002cb9162ef` · **Windows beta** (macOS release in preparation)
 
 ---
 
@@ -23,8 +23,8 @@ This manual guides you through installation, adding users, configuring your loca
 
 MetawatchPHR is distributed as a standalone desktop application.
 
-1. **Download the installer.** The filename looks like `MetawatchPHR-Setup-0.2.0-23ea06338668.exe`. The letters and numbers at the end identify your exact build — **if you ever report a problem, include that build code**; it tells us precisely which version you are running. If a download arrives smaller than expected, re-download directly rather than through a syncing folder — cloud drives can hand you a partial file.
-2. **Expect a Windows warning — this is normal.** The beta installer is not yet code-signed, so Windows will warn you: SmartScreen shows *"Windows protected your PC"* (click **More info → Run anyway**), and User Account Control asks about an *"unknown publisher"* (click **Yes**). Code signing is planned; until then these warnings appear for every beta tester.
+1. **Download the installer.** The filename looks like `MetawatchPHR-Setup-0.2.0-c002cb9162ef.exe`. The letters and numbers at the end identify your exact build — **if you ever report a problem, include that build code**; it tells us precisely which version you are running. If a download arrives smaller than expected, re-download directly rather than through a syncing folder — cloud drives can hand you a partial file.
+2. **Expect a Windows warning — this is normal.** The beta installer is not yet code-signed, so Windows will warn you: SmartScreen shows *"Windows protected your PC"* (click **More info → Run anyway**), and User Account Control asks about an *"unknown publisher"* (click **Yes**). These warnings appear for every beta tester.
 
    ![The unknown-publisher prompt every beta tester sees — click Yes](manual-screenshots/shots/bonus_uac_unsigned_publisher.png)
 3. **The installer runs in French first.** MetawatchPHR is built to Québec's language requirements, so the installer and the first-run screens present French by default. Choosing English is one click — and that choice is itself your agreement to proceed in English.

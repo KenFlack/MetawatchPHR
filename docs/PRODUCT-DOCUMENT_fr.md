@@ -86,7 +86,7 @@ Une application d'IA locale gratuite (LM Studio) effectue la lecture sur votre m
 ### Installation
 
 1. Téléchargez `MetawatchPHR-Setup-0.2.0-<code de version>.exe` depuis la page Releases et lancez-le. (Le code à la fin du nom de fichier identifie la version exacte — citez-le dans toute demande de soutien.)
-2. Windows peut afficher **« Windows a protégé votre ordinateur »** — cette version bêta n'est pas encore signée numériquement. Cliquez sur **Informations complémentaires → Exécuter quand même**. (La signature est prévue ; cet avertissement n'indique aucun problème avec le logiciel.)
+2. Windows peut afficher **« Windows a protégé votre ordinateur »** — cette version bêta n'est pas encore signée numériquement. Cliquez sur **Informations complémentaires → Exécuter quand même**. (Cet avertissement n'indique aucun problème avec le logiciel.)
 3. L'installateur s'ouvre en **français** ; choisissez votre langue. On vous demandera de lire et d'accepter la licence et la politique de confidentialité — la case d'acceptation apparaît à la **fin** de chaque document.
 4. Une fois terminé, MetawatchPHR démarre et votre navigateur s'ouvre sur le tableau de bord, avec un **patient de démonstration** intégré pour explorer immédiatement.
 
